@@ -1,2 +1,2 @@
 # hello-world
-use Git first time
+this is a apple
